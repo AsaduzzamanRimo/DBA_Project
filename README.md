@@ -1,2 +1,2 @@
-# DBA_Project
-SQL,DBA,PLSQL
+# SQL_DBAScripts
+Scripts For Microsoft SQL Server Administration
